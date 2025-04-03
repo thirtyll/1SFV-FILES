@@ -1,5 +1,3 @@
-# 1SFV-FILES 
-
 # 1SFV FILES
 
 ## Overview
